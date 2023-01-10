@@ -1,0 +1,32 @@
+*{
+    margin: 0px;padding: 0px;box-sizing: border-box;
+}
+
+.header, .footer{
+    font-size: 40px;
+    text-align: center;
+    background-color: aqua;
+    padding: 5px;
+}
+
+.parent{
+    height: 85.7vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(249, 239, 225);
+}
+
+.child{
+    height: 40vh;
+    width: 70vw;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;*/
+    background-color: rgb(243, 180, 224);
+}
+
+.a{
+    background-color: rgb(246, 200, 232);
+}
