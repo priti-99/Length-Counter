@@ -20,10 +20,10 @@
 
 .child{
     height: 40vh;
-    width: 70vw;
-    /* display: flex;
-    justify-content: center;
-    align-items: center;*/
+    width: 80.2%;
+    /* display: flex;  */
+    /* justify-content: center; */
+    /* align-items: center;  */
     background-color: rgb(243, 180, 224);
 }
 
