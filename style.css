@@ -5,8 +5,11 @@
 .header, .footer{
     font-size: 40px;
     text-align: center;
-    background-color: aqua;
+    background-color: #1b2631;
+    color: white;
     padding: 5px;
+    font-weight: bold;
+    
 }
 
 .parent{
@@ -15,7 +18,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(249, 239, 225);
+    background-color: #3c5269;
 }
 
 .child{
@@ -24,9 +27,11 @@
     /* display: flex;  */
     /* justify-content: center; */
     /* align-items: center;  */
-    background-color: rgb(243, 180, 224);
+    background-color: #3c5269;
 }
 
 .a{
-    background-color: rgb(246, 200, 232);
+    background-color: #e1b12c;
+    color: black;
+    font-size: 1.7rem;
 }
